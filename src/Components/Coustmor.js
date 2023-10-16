@@ -1,7 +1,7 @@
 import React from 'react'
 import "../Components/Main_Dashboard.css"
 import Heading from './Heading'
-import Search_box from './Search_box'
+
 
 function Coustmor() {
   return (
